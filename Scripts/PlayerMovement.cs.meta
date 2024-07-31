@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: b1a4fadf230ce4aa0842416bcf7b9ab7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - progression: {fileID: 11400000, guid: b62cea0f383ae486892343a467f1e000, type: 2}
+  - sr: {instanceID: 0}
+  - lb: {instanceID: 0}
+  - ps: {instanceID: 0}
+  - transition: {instanceID: 0}
+  - bouldermove: {instanceID: 0}
+  - footstep: {instanceID: 0}
+  - door: {instanceID: 0}
+  - goal: {instanceID: 0}
+  - menu: {instanceID: 0}
+  - bonk: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - textbox: {instanceID: 0}
+  - text: {instanceID: 0}
+  - opendoor: {instanceID: 0}
+  - map: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
